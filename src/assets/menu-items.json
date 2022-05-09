@@ -1,0 +1,56 @@
+[
+    {
+        "id": "353974f2-0bf1-4164-9a22-eacc2088e2e5",
+        "name": "Chicken Burger",
+        "price": 13.50,
+        "category": "Burger" 
+    },
+    {
+        "id": "96b8b5a1-430c-4109-adee-694f8cde34ad",
+        "name": "Vegan Burger",
+        "price": 14.50,
+        "category": "Burger" 
+    },
+    {
+        "id": "ec8d76f4-f7ff-4e4e-b277-2bf828cde772",
+        "name": "Beef Burger",
+        "price": 15.50,
+        "category": "Burger" 
+    },
+    {
+        "id": "da569a75-6e44-4854-96a8-1b9cb3cdbf5d",
+        "name": "Lamb Burger",
+        "price": 16.50,
+        "category": "Burger" 
+    },
+    {
+        "id": "3bb6019d-feaf-4dc1-a300-d2ca161f51cc",
+        "name": "Small Fries",
+        "price": 3.50,
+        "category": "Side" 
+    },
+    {
+        "id": "26ae7239-2cd9-4a40-b79f-485b7ea0c20b",
+        "name": "Large Fries",
+        "price": 5.50,
+        "category": "Side" 
+    },
+    {
+        "id": "d1f62631-4650-464a-b6ad-39be7be43b90",
+        "name": "Orange Juice",
+        "price": 4.50,
+        "category": "Drink" 
+    },
+    {
+        "id": "604c0a60-d2bc-45fa-aa35-2c8c0fc3e752",
+        "name": "Iced Tea",
+        "price": 4.50,
+        "category": "Drink" 
+    },
+    {
+        "id": "f11b21b8-ffc3-4de5-b830-1259a2d2e52f",
+        "name": "Ginger Beer",
+        "price": 4.5,
+        "category": "Drink" 
+    }
+]

@@ -1,0 +1,25 @@
+:host {
+    flex: 2 2 auto;
+    padding: 20px;
+    .header-wrap {
+        display: flex;
+        justify-content: space-between;
+        .show-order-button {
+            width: 132px;
+            height: 37px;
+            font-size: 13px;
+            text-transform: uppercase;
+            background-color: #169e6e;
+            border: 1px solid #63a58e;
+            border-radius: 3px;
+            color: white;
+            cursor: pointer;
+        }
+    }
+
+    @media (min-width:840px) {
+        .show-order-button {
+            display: none;
+        }
+    }
+}

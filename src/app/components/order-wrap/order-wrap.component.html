@@ -1,0 +1,11 @@
+<div class="header-wrap">
+    <h1>Order</h1>
+    <button class="hide-order-button move" (click)="hideOrder()">X</button>
+</div>
+
+<div class="item-count">{{ itemCount() }} Item/s</div>
+
+<div class="total"><strong>TOTAL:</strong> ${{ total() | number: '1.2-2' }}</div>
+
+<button class="move submit-order" (click)="submitOrder()">Submit Order</button>
+

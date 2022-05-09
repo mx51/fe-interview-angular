@@ -1,0 +1,13 @@
+<div class="menu-item move" (click)="addMenuItem()" role="button" tabindex="0">
+  <div
+    class="menu-item-image"
+    [ngStyle]="{
+      'background-image':
+        'url(' + imageLocation + nameToImage(menuItem?.name) + '.jpg)'
+    }"
+  ></div>
+
+  <div class="menu-item-name">
+    {{ menuItem?.name }}
+  </div>
+</div>

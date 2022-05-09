@@ -1,0 +1,10 @@
+<div class="header-wrap">
+    <h1>Tuckshop Menu</h1>
+    <button class="show-order-button move" (click)="showOrder()">Show Order ({{ orderCount()  }})</button>
+</div>
+<ng-container *ngFor="let group of itemsByCategory | keyvalue" >
+    <app-menu-category 
+        [menuItems]="group.value" 
+        [category]="group.key">
+    </app-menu-category>
+</ng-container>
