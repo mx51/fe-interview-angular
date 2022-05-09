@@ -1,4 +1,4 @@
-# mx51 Story Workflow Interview
+# mx51 Frontend Technical Interview
 
 Hi!
 
