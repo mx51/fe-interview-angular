@@ -43,11 +43,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running end-to-end tests
-
-I have created a simple cypress test as an example. It opens the page, clicks an item and expects it to be added to the order.
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
 ## External Packages
 
 Using the below to create GUIDs 
